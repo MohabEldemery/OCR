@@ -38,6 +38,7 @@ def text_detector(image):
 
     expansion_factor = 0.2
 
+    
     for y in range(0, numRows):
         scoresData = scores[0, 0, y]
         xData0 = geometry[0, 0, y]
