@@ -29,4 +29,4 @@ The script detects text regions in an image, extracts them, and recognizes text 
 ```bash
 pip install opencv-python pytesseract imutils numpy
 
-Alongside this code, I created a video demonstration (demo.mp4) that walks through how the script works step by step.
+Alongside this code, I created a video demonstration (demo.mp4) that walks through how the script works with the code.
